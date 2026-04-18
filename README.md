@@ -87,5 +87,3 @@ Transit:
 
 ---
 
-## Disclaimer
-This is a fictional enterprise environment used for demonstration. It does not represent Ramp’s actual production network.
